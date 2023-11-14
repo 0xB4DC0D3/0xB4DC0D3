@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate enthusiast with a focus on software development 😃</h3>
 
-- 🔭 I’m currently working on **my local Mars project (IDE/text editor)**
+- 🔭 I'm currently working on **my local Nestify project (NES emulator)**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I'am looking for a job, so feel free to contact me
 
-- 💬 Ask me about **React, Next.js, Framer Motion**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, C++, and Rust**
 
 - 📫 How to reach me **siheti.mykola@gmail.com**
 
