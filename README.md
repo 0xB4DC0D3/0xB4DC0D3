@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on **my local Nestify project (NES emulator)**
 
-- 🌱 I'am looking for a job, so feel free to contact me
+- 🌱 I'm looking for a job, so feel free to contact me
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, C++, and Rust**
 
