@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate enthusiast with a focus on software development 😃</h3>
 
-- 🔭 I'm currently working on **my local Nestify project (NES emulator)**
+- 🔭 I'm currently working on **Gold V8** project. Want to provide wider abilities for modders of GoldSrc-based games
 
-- 🌱 I'm looking for a job, so feel free to contact me
+- 🌱 Alongside, I'm looking for a job, so feel free to contact me
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, C++, and Rust**
+- 💬 Also feel free to ask me about **JavaScript, TypeScript, React, Next.js, C++, or Rust**
 
-- 📫 How to reach me **siheti.mykola@gmail.com**
+- 📫 You can reach me via **siheti.mykola@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
